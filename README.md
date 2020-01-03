@@ -1,10 +1,6 @@
-# 👨‍💻 SQL
+# ⚾ Major League Baseball SQL
 
-This repository contains a SQL project where I have studied and practiced writing SQL queries.
-
-## ⚾ Major League Baseball
-
-### Understanding the Schema
+## Understanding the Schema
 
 I have used the [Lahman baseball statistics database](http://www.seanlahman.com/baseball-archive/statistics/) for this project. The database contains pitching, hitting, and fielding statistics for Major League Baseball from 1871 through 2017.  It includes data from the two current leagues (American and National), four other "major" leagues (American Association, Union Association, Players League, and Federal League), and the National Association of 1871-1875.
 
@@ -17,7 +13,7 @@ The database is comprised of the following main tables:
 	
 The main tables are supplemented by other, smaller tables.
 
-### Queries
+## Queries
 
 1. **Basics**
     1. In the `people` table, find the `namefirst`, `namelast` and `birthyear` for all players with weight greater than 300 pounds.
